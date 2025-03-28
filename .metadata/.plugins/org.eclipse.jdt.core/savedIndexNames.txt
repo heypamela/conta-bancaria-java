@@ -1,1 +1,0 @@
-INDEX VERSION 1.134+/home/pam/Documentos/Generation/Aulas - Atividades/conta-bancaria-java/.metadata/.plugins/org.eclipse.jdt.core
