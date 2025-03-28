@@ -1,4 +1,4 @@
-package util;
+package conta.util;
 
 public class Cores {
     //Reset Color - Resetar cor

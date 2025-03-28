@@ -1,7 +1,8 @@
-import java.util.Scanner;
+package conta;
 
-import model.Conta;
-import util.Cores;
+import java.util.Scanner;
+import conta.model.Conta;
+import conta.util.Cores;
 
 public class Menu {
     public static void main(String[] args) {
