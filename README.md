@@ -6,8 +6,8 @@
 - [Aplicando Model](https://github.com/conteudoGeneration/cookbook_java_fullstack/blob/main/01_java/pr03.md) :
   Model da Conta foi adicionado. Para teste, a classe Conta foi importada na classe Menu.
 
--[Aplicando Model Conta Corrente e Conta Poupança](https://github.com/conteudoGeneration/cookbook_java_fullstack/blob/main/01_java/pr04.md)
+- [Aplicando Model Conta Corrente e Conta Poupança](https://github.com/conteudoGeneration/cookbook_java_fullstack/blob/main/01_java/pr04.md)
  Models Conta Corrente e Poupança implementadas e isso foi trabalhado POO - herança.
 
--[Aplicando Repository](https://github.com/conteudoGeneration/cookbook_java_fullstack/blob/main/01_java/pr06.md)
+- [Aplicando Repository](https://github.com/conteudoGeneration/cookbook_java_fullstack/blob/main/01_java/pr06.md)
  Classe Conta foi implementada como uma classe abstrata, assim, criada a interface ContaRepository.
