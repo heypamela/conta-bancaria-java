@@ -20,3 +20,6 @@
 
 - [Continuando o CRUD](https://github.com/conteudoGeneration/cookbook_java_fullstack/blob/main/01_java/pr09.md) :
   Implementando mais alguns métodos CRUD dentro da ContaController.
+
+- [Finalizando Projeto](https://github.com/conteudoGeneration/cookbook_java_fullstack/blob/main/01_java/pr10.md) :
+  Implementando métodos CRUD que faltavam dentro da ContaController para finalizar o projeto. 
