@@ -17,3 +17,6 @@
 
 - [Iniciando o CRUD](https://github.com/conteudoGeneration/cookbook_java_fullstack/blob/main/01_java/pr08.md) :
   Criada a classe ContaController que foi implementada a interface ContaRepository.
+
+- [Continuando o CRUD](https://github.com/conteudoGeneration/cookbook_java_fullstack/blob/main/01_java/pr09.md) :
+  Implementando mais alguns métodos CRUD dentro da ContaController.
